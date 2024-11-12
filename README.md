@@ -2,8 +2,6 @@
 
 Hello, have a good time ! I am Mohammad Bararian and I work mostly in the field of front end, 2D and 3D Graphic designing, UI/UX designing. I make beautiful, unique and creative sites. I have skills in WordPress and Elementor and I am learning React.js & Next.js.
 
-![<MohammadBararian>'s Stats](https://github-readme-stats.vercel.app/api?MohammadBararian=<MohammadBararian>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🔭 I am a front-end and WordPress website designer and I also do graphic design

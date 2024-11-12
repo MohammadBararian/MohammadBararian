@@ -11,11 +11,11 @@ Hello, have a good time ! I am Mohammad Bararian and I work mostly in the field 
 - 🌐 Currently, I am not employed anywhere and I am looking for a job
   
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,jquery,git,php,wordpress,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,jquery,git,php,python,wordpress,photoshop,linux,elementor,blender)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀
+
 ✅ I am fully proficient in HTML, CSS, and don't worry about this, entrust the work to me!
 
 ✅ And that I also have expertise in the field of ui ux and I can easily create anything for you with CSS. That is, if you ask me for a flat site, it is not possible to get it wrong.
@@ -35,6 +35,8 @@ karlancer.com/profile/457439
 
 ## 📬 Get in Touch
 
+<a href="www.linkedin.com/in/mohammad-bararian-874263322" target="_blank">
+(https://skillicons.dev/icons?i=linkdein)](https://skillicons.dev)</a>
 - Connect with me on [linkedin](www.linkedin.com/in/mohammad-bararian-874263322)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀

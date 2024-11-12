@@ -33,10 +33,6 @@ karlancer.com/profile/457439
 
 
 
-## 📬 Get in Touch
-
-- Connect with me on [linkedin](www.linkedin.com/in/mohammad-bararian-874263322)
-
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 

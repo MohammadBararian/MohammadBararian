@@ -1,41 +1,41 @@
- Hi, I'm <YOUR NAME>! 👋
+ Hi, I'm Mohammad! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+Hello, have a good time ! I am Mohammad Bararian and I work mostly in the field of front end, 2D and 3D Graphic designing, UI/UX designing. I make beautiful, unique and creative sites. I have skills in WordPress and Elementor and I am learning React.js & Next.js.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<MohammadBararian>'s Stats](https://github-readme-stats.vercel.app/api?MohammadBararian=<MohammadBararian>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
-
+- 🔭 I am a front-end and WordPress website designer and I also do graphic design
+- 📝 I am learning React.js and Next.js advanced
+- 🌐 Currently, I am not employed anywhere and I am looking for a job
+  
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,jquery,git,php,wordpress,photoshop)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- 🚀
+✅ I am fully proficient in HTML, CSS, and don't worry about this, entrust the work to me!
 
- ## 🏆 Achievements
+✅ And that I also have expertise in the field of ui ux and I can easily create anything for you with CSS. That is, if you ask me for a flat site, it is not possible to get it wrong.
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+✅ I can do any operation you want with Java script.
+
+✅ I am also skilled in responsive design and I can easily make your site responsive with Bootstrap or Tailwind CSS.
+
+✅ With jquery library, I can easily code and make the site dynamic and stylish very easily. I also work with partial JavaScript libraries.
+
+✅ I am not that professional in SEO, but I try to follow its principles.
+
+my work samples are also below
+karlancer.com/profile/457439
+
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [linkedin](www.linkedin.com/in/mohammad-bararian-874263322)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
@@ -43,14 +43,3 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 
 <!--
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
